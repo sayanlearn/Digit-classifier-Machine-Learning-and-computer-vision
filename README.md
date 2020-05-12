@@ -1,14 +1,14 @@
 # Enhanced Hello World of Deep Learning
 
-We all know that the Hello World of Deep Learning is training a model that is able to classify digits. But, we have developed an enhanced version
+We all know that the 'Hello World of Deep Learning' is training a model that is able to classify digits. But, we developed an enhanced version
 wherein we have used the basics of computer vision to develop an interactive digit classifier. This repository consists of implementation
 of Artificial Neural Network from scratch in NumPy along with Convolutional Neural Network based models written in frameworks such as 
-Keras, TensorFlow and PyTorch (the best). Before making this interactive digit classifier, we have made a mouse-pad based digit classifier 
+Keras, TensorFlow and PyTorch (the best). Before making this interactive digit classifier, we made a mouse-pad based digit classifier 
 where a digit is drawn with the help of a mouse on the screen and the digit is recognized. 
 
 ## Getting Started
 
-The dataset is downloaded directly in the code. To get a better description of the project, refer this [repository link](https://github.com/sayangoogle/Summer-Project-2019).
+The dataset is downloaded directly in the code (using pakages like torchvision). To get a better description of the project, refer this [repository link](https://github.com/sayangoogle/Summer-Project-2019).
 The structure of the repository is shown as below
 ```
 Digit-classifier-Machine-Learning-and-computer-vision
